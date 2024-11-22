@@ -1,0 +1,4 @@
+CD into pss folder
+Need to have nodejs already installed
+After doing so simply run
+npm run dev 
