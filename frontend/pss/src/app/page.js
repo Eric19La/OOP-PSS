@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { fetchTasks, deleteTask } from "../services/taskService";
+import { fetchTasks, deleteTask } from "../api/taskService";
 import TaskList from "../components/TaskList";
 
 export default function HomePage() {
